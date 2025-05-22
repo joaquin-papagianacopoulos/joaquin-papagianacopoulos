@@ -36,11 +36,3 @@ Soy un apasionado de la inteligencia artificial con experiencia en desarrollo de
 - 💼 [LinkedIn](https://linkedin.com/in/joaquin-papagianacopoulos)
 - 📬 [Correo](mailto:joaquinpapagianacopoulos@gmail.com)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical" />
-</p>
