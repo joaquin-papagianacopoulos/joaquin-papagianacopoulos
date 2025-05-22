@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hola, soy Joaquin Papagianacopoulos
 
-<!--
-**joaquin-papagianacopoulos/joaquin-papagianacopoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy AI Engineer apasionado por la ciencia de datos, el aprendizaje profundo y la IA generativa. Trabajo con Python, TensorFlow, PyTorch y más.
 
-Here are some ideas to get you started:
+### 🧠 Tecnologías que uso:
+- Machine Learning: `scikit-learn`, `XGBoost`, `LightGBM`
+- Deep Learning: `TensorFlow`, `Keras`, `PyTorch`
+- NLP: `Transformers`, `spaCy`, `NLTK`
+- Data: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
+- DevOps: `Docker`, `Airflow`, `MLflow`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos destacados:
+- 💬 `Conversational-AI`: Chatbot entrenado con Transformers.
+- 📈 `Time-Series-Forecasting`: Predicción de demanda usando LSTM.
+- 🤖 `Image-Classifier-TF`: Clasificador de imágenes con transfer learning.
+
+📫 Contacto: [joaquinpapagianacopoulos@gmail.com](mailto:joaquinpapagianacopoulos@gmail.com) | [LinkedIn]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/joaquinpapagianacopoulos/))
