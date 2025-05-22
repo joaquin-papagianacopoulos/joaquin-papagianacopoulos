@@ -1,17 +1,46 @@
-### 👋 Hola, soy Joaquin Papagianacopoulos
+<h1 align="center">👋 ¡Hola! Soy Joaquin Papagianacopoulos</h1>
 
-Soy AI Engineer apasionado por la ciencia de datos, el aprendizaje profundo y la IA generativa. Trabajo con Python, TensorFlow, PyTorch y más.
+<p align="center">
+AI Engineer | Generative AI | MLOps | Python Developer
+</p>
 
-### 🧠 Tecnologías que uso:
-- Machine Learning: `scikit-learn`, `XGBoost`, `LightGBM`
-- Deep Learning: `TensorFlow`, `Keras`, `PyTorch`
-- NLP: `Transformers`, `spaCy`, `NLTK`
-- Data: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
-- DevOps: `Docker`, `Airflow`, `MLflow`
+---
 
-### 🚀 Proyectos destacados:
-- 💬 `Conversational-AI`: Chatbot entrenado con Transformers.
-- 📈 `Time-Series-Forecasting`: Predicción de demanda usando LSTM.
-- 🤖 `Image-Classifier-TF`: Clasificador de imágenes con transfer learning.
+### 🧠 Sobre mí
 
-📫 Contacto: [joaquinpapagianacopoulos@gmail.com](mailto:joaquinpapagianacopoulos@gmail.com) | [LinkedIn]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/joaquinpapagianacopoulos/))
+Soy un apasionado de la inteligencia artificial con experiencia en desarrollo de modelos de machine learning, IA generativa y automatización de flujos de trabajo con herramientas modernas de MLOps. Me interesa crear soluciones prácticas que mezclen modelos inteligentes con interfaces accesibles.
+
+---
+
+### ⚙️ Stack Técnico
+
+- **Lenguajes**: Python, SQL
+- **IA & ML**: Scikit-learn, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn, OpenCV
+- **IA Generativa**: Autogen, CrewAI, LangChain
+- **Web & Apps**: Streamlit, Flask, Flet, ReportLab
+- **MLOps**: Airflow, Docker, Git, GitHub
+- **Cloud**: Google Cloud Platform (BigQuery, Cloud Functions, Cloud Storage)
+
+---
+
+### 🚀 Proyectos destacados
+
+- 🤖 `My-First-Agent`: Agente inteligente usando AutoGen para escribir y criticar un texto de 150 carácteres generado por AI.
+- 🧾 `Orders-System-by-JP`: Aplicación Python para generar ordenes, analizar estadísticas, generar PDF con tickets de compra, utilizando Flet para que sea compatible con Android e IOS, hosteado en un servidor VPS, almacenando datos en MYSQL para poder compartir BD desde distintos dispositivos dentro del mismo sistema.
+- 📈 `Data-Insight-Copilot`: Aplicación (en desarrollo) de análisis de datos usando IA generativa a través de datos en CSV.
+
+---
+
+### 📫 Contacto
+
+- 💼 [LinkedIn](https://linkedin.com/in/joaquin-papagianacopoulos)
+- 📬 [Correo](mailto:joaquinpapagianacopoulos@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical" />
+</p>
