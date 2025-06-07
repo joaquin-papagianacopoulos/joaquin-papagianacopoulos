@@ -33,6 +33,6 @@ Soy un apasionado de la inteligencia artificial con experiencia en desarrollo de
 
 ### 📫 Contacto
 
-- 💼 [LinkedIn]([(https://www.linkedin.com/in/joaquinpapagianacopoulos/)](https://www.linkedin.com/in/joaquinpapagianacopoulos/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/joaquinpapagianacopoulos/)
 - 📬 [Correo](mailto:joaquinpapagianacopoulos@gmail.com)
 
