@@ -15,8 +15,8 @@ Soy un apasionado de la inteligencia artificial con experiencia en desarrollo de
 ### ⚙️ Stack Técnico
 
 - **Lenguajes**: Python, SQL
-- **IA & ML**: Scikit-learn, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn, OpenCV
-- **IA Generativa**: CrewAI, LangChain
+- **IA & ML**: Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn, OpenCV
+- **IA Generativa**: CrewAI, LangChain, Embeddings
 - **Web & Apps**: Streamlit, Flask, Flet, ReportLab
 - **MLOps**: Airflow, Docker, Git, GitHub
 - **Cloud**: Google Cloud Platform (BigQuery, Cloud Functions, Cloud Storage)
