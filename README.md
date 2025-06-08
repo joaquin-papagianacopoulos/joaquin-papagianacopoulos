@@ -21,13 +21,6 @@ Soy un apasionado de la inteligencia artificial con experiencia en desarrollo de
 - **MLOps**: Airflow, Docker, Git, GitHub
 - **Cloud**: Google Cloud Platform (BigQuery, Cloud Functions, Cloud Storage)
 
----
-
-### 🚀 Proyectos destacados
-
-- 🤖 `My-First-Agent`: Agente inteligente usando AutoGen para escribir y criticar un texto de 150 carácteres generado por AI.
-- 🧾 `Orders-System-by-JP`: Aplicación Python para generar ordenes, analizar estadísticas, generar PDF con tickets de compra, utilizando Flet para que sea compatible con Android e IOS, hosteado en un servidor VPS, almacenando datos en MYSQL para poder compartir BD desde distintos dispositivos dentro del mismo sistema.
-- 📈 `Data-Insight-Copilot`: Aplicación (en desarrollo) de análisis de datos usando IA generativa a través de datos en CSV, utilizando Streamlit para aplicación web con Python.
 
 ---
 
