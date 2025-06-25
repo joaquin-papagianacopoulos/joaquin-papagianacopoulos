@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Joaquin Papagianacopoulos</h1>
 
 <p align="center">
-AI Engineer | Generative AI | MLOps | Python Developer
+AI Engineer | Generative AI | Python Developer
 </p>
 
 ---
@@ -15,10 +15,9 @@ Soy un apasionado de la inteligencia artificial con experiencia en desarrollo de
 ### ⚙️ Stack Técnico
 
 - **Lenguajes**: Python, SQL
-- **IA & ML**: Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn, OpenCV
+- **IA & ML**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, OpenCV
 - **IA Generativa**: CrewAI, LangChain, Embeddings, FAISS
-- **Web & Apps**: Streamlit, Flask, Flet, ReportLab
-- **MLOps**: Airflow, Docker, Git, GitHub
+- **Web & Apps**: Streamlit, Flet, ReportLab
 - **Cloud**: Google Cloud Platform (BigQuery, Cloud Functions, Cloud Storage)
   
 ---
